@@ -1,0 +1,1 @@
+# RepositoryPatternCore_Api_Ado
